@@ -1,0 +1,25 @@
+{
+  "short_name": "Fuelcab - Online Doorstep Diesel Delivery Service in India",
+  "name": "Fuelcab is an online platform for door-to-door delivery of fuel in a safe, reliable, and efficient way. You can place your order online and...",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

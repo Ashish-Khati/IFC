@@ -1,0 +1,45 @@
+.image {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  z-index: 0;
+}
+.team-icon {
+  list-style-type: none;
+  display: flex;
+  padding-left: 0px;
+}
+.flexd {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  align-items: center;
+  justify-content: center;
+  gap: 200px;
+  background-color: rgba(236, 237, 238, 0.682);
+}
+
+.col-sm-6-col-md-4 {
+  background-color: white;
+  padding: 10px 50px;
+}
+.section-title {
+  font-style: oblique;
+  font-size: xx-large;
+  color: rgb(61, 60, 60);
+}
+.section-subtitle {
+  color: rgb(76, 74, 74);
+}
+.space {
+  background-color: rgba(236, 237, 238, 0.682);
+  padding: 50px;
+}
+.special-text {
+  color: rgb(73, 120, 170);
+}
+.twitter {
+  margin: 0px;
+  padding: 0px;
+}
